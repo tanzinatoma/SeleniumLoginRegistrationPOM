@@ -24,7 +24,6 @@ e.g.: `login_submission_password_field_empty()` method tests a case where login 
 ## Appendix
 - Maven Project
 - Testing Frameworks - Selenium, TestNG
-- Faker Library for data generation
 
 chromedriver is in 'drivers' folder, need to only change the path in class.
 `pom.xml` file contains all the dependencies.
